@@ -1,0 +1,12 @@
+<suite name="Suite">
+
+	<test name="Batch Execution">
+
+		<classes>
+			<class name="Login.LoginTest" />
+			<class name="RecruitmentModule.RecruitmentCandidate" />
+		</classes>
+
+	</test>
+
+</suite> 
